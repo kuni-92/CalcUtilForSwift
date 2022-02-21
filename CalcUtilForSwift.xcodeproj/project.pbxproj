@@ -31,6 +31,7 @@
 		A3EC355027C3B62F00B6EFB4 /* CalcUtilForSwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalcUtilForSwiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3EC355527C3B62F00B6EFB4 /* CalcUtilForSwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalcUtilForSwiftTests.swift; sourceTree = "<group>"; };
 		A3EC356027C3B7A000B6EFB4 /* StandardCalc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandardCalc.swift; sourceTree = "<group>"; };
+		A3EC356227C3BC3300B6EFB4 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				A3EC356027C3B7A000B6EFB4 /* StandardCalc.swift */,
+				A3EC356227C3BC3300B6EFB4 /* Readme.md */,
 				A3EC354827C3B62E00B6EFB4 /* CalcUtilForSwift */,
 				A3EC355427C3B62F00B6EFB4 /* CalcUtilForSwiftTests */,
 				A3EC354727C3B62E00B6EFB4 /* Products */,
